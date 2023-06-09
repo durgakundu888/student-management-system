@@ -152,9 +152,9 @@ int main(){
     students.push_back(Student(8, 25, "Darren Chan"));
     students.push_back(Student(9, 25, "James Yun"));
     students.push_back(Student(10, 25, "Rasha Hantash"));
-    students.push_back(Student(11, 26, "Diana Calderon"));
-    students.push_back(Student(12, 26, "Minhaz Abdullah"));
-    students.push_back(Student(13, 27, "Prashant Bishwakarma"));
+    students.push_back(Student(11, 25, "Diana Calderon"));
+    students.push_back(Student(12, 25, "Minhaz Abdullah"));
+    students.push_back(Student(13, 26, "Prashant Bishwakarma"));
     char choice;
     do{
         system("cls");
